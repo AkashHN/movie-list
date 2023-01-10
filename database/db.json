@@ -1,0 +1,68 @@
+{
+  "movies": [
+    {
+      "movieName": "Guru Shishyaru",
+      "hero": "Sharan",
+      "gener": "Drama",
+      "rating": "4",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246218/portrait/1920x77053fb80c1a71145798588cf5e80c0356d.jpg",
+      "id": 7
+    },
+    {
+      "movieName": "Thotapuri",
+      "hero": "Jaggesh",
+      "gener": "comedy",
+      "rating": "3.5",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-1z5273898/portrait/1920x770ce9edf60138049bf9863cf7ee1434562.jpg",
+      "id": 8
+    },
+    {
+      "movieName": "The villan",
+      "hero": "Sudeep , Shivarajkumar",
+      "gener": "Drama",
+      "rating": "4",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-25972/portrait/1920x770058d7d22552049988e9c3a892ebf7635.jpg",
+      "id": 9
+    },
+    {
+      "movieName": "Natasarvabavma",
+      "hero": "Puneeth",
+      "gener": "Drama",
+      "rating": "4.5",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-51732/portrait/0051732incove174460946717449288fcd99eb7423b8e991ff72b6ffd1d.jpg",
+      "id": 10
+    },
+    {
+      "movieName": "Arjun Gowda",
+      "hero": "Prajwal Devaraj",
+      "gener": "Drama",
+      "rating": "3.5",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-1z5189943/portrait/arjungowdapfp1ag1920x77021072022ff26d7e222e74ba993efc906c0db3a48.jpg",
+      "id": 11
+    },
+    {
+      "movieName": "Bajarangi",
+      "hero": "Shivrajkumar",
+      "gener": "Action",
+      "rating": "4",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-1z560890/portrait/1920x7702c8956bd037a4efba2ccddc2a5e34c3f.jpg",
+      "id": 12
+    },
+    {
+      "movieName": "Kurukshethra",
+      "hero": "Darshan",
+      "gener": "action",
+      "rating": "4",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-103999/portrait/00103999cover180249760318024e4493f93d6994b268e1637ed7409b850.jpg",
+      "id": 13
+    },
+    {
+      "movieName": "",
+      "hero": "",
+      "gener": "",
+      "rating": "",
+      "poster": "",
+      "id": 14
+    }
+  ]
+}
